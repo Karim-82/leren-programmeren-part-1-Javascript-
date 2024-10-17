@@ -4,5 +4,18 @@
 for(let i = 1;i<=1000;i=i*2){
     console.log(i);
 }
+
+
 //Machten van twee zijn:(1) 2 - 4 - 8 - 16 - 32 - 64 - 128 - 256 - 512 enz...
+
+// dezelfde resultaat met een while loop
+/*
+let i = 1;
+while(i<=1000){
+    i = i*2;
+    console.log(i);
+}
+*/
+
+
 
